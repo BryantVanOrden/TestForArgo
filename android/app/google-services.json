@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "847178421801",
+    "firebase_url": "https://test-d439d-default-rtdb.firebaseio.com",
+    "project_id": "test-d439d",
+    "storage_bucket": "test-d439d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847178421801:android:d480cfa9936cf17e56ae38",
+        "android_client_info": {
+          "package_name": "com.example.test_for_argo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHlccfmmsYStU8NI_nZ_DjnnXkjNc_aJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
